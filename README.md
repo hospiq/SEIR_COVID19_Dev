@@ -1,3 +1,5 @@
+This fork only adds the file `model.py` which is a Python implementation of SEIR model in R from the original repo (and included here for completeness)
+
 # SEIR_COVID19_Dev
 
 (Developer's version) SEIR model for COVID-19 infection, including different clinical trajectories of infection, interventions to reduce transmission, and comparisons to healthcare capacity.
